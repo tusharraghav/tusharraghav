@@ -1,6 +1,6 @@
 ![logo](https://github.com/tusharraghav/tusharraghav/blob/main/Github_background.png.png)
-<h1 align="center">Hi 👋, I'm tusharraghav</h1>
-<h3 align="center">A Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tushar Raghav </h1>
+<h3 align="center">A Full Stack Developer From INDIA </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharraghav&label=Profile%20views&color=0e75b6&style=flat" alt="tusharraghav" /> </p>
@@ -9,15 +9,16 @@
 
 - 🌱 I’m currently learning **Java Development **
 
-- 👨‍💻 All of my projects are available at [https://github.com/tusharraghav](https://github.com/tusharraghav)
+- 👨‍💻 Please check my repository [https://github.com/tusharraghav](https://github.com/tusharraghav) which consists of some the Full Stack development Projects I have done.
 
 - 💬 Ask me about **Javascript,ReactJs, NodeJs, API Testing**
 
-- 📫 How to reach me **tusharraghav69@gmail.com**
+- 📫 You can connect with me on Linkedin or just drop an email **tusharraghav69@gmail.com**
 
-- ⚡ Fun fact **Cool tech**
+- ⚡Looking to hire ? Well you have come to the right place. Following are the Skills set and Knowledge I posses at the moment but obviosly the list is increasing rapidly.
+- Now, I'm recently B.Tech graduate from ABES Engineering College, Ghaziabad is with DR APJ Abdul Kalam Technical University, Uttar Pradesh. I have done my Internship in both Full Stack Web Development and Embedded-IoT system. I have built scalable API's worked with JWT authentication, and even created a Smart Farming System by using IoT, NodeMCU, Sensors integration and web dashboard. I'm currently looking for an SDE Intern, Trainee or Entry Level opportunities where I can contribute meaningfully and grow under experienced mentors. 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in Touch:</h3>
 <p align="left">
 <a href="https://twitter.com/tushar_raghav22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar_raghav22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/tushar-raghav-ba9a03241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tushar-raghav-ba9a03241" height="30" width="40" /></a>
